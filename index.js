@@ -59,3 +59,7 @@ for(let i=0;i<numberOfDrums;i++){
         }
     })
 }
+var audio = new Audio('sounds/tom-1.mp3');
+        audio.play();
+
+        // ADDED 2 new lines 
